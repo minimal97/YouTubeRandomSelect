@@ -1,7 +1,9 @@
 # YoutubeRandomSelect
 
-メモ的なものです。
-NextPageがなくなるまで繰り返して、randで返します。
+メモ的なものです。  
+NextPageがなくなるまで繰り返して、randで返します。  
+twitteroauthを使います。  
+https://github.com/abraham/twitteroauth
 
 ## memo
 ---
